@@ -7,8 +7,8 @@
 克隆本项目, 然后安装构建所需要的环境.
 
 ```bash
-git clone https://github.com/Innei/Vue-Simple-Home-Page.git
-cd Vue-Simple-Home-Page
+git clone https://github.com/MsShiina-Mashiro/personal_vue_web
+cd personal_vue_web
 npm i
 npm build
 ```
