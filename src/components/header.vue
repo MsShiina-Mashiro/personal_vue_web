@@ -38,7 +38,7 @@ export default {
       nav: [
         {
           name: "Home",
-          url: "/"
+          url: "/home"
         },
         {
           name: "About",

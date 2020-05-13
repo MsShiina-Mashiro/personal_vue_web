@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "bcryptjs": "^2.4.3",
+    "circular-json": "^0.5.9",
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.13"
+  }
+}

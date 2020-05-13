@@ -13,7 +13,7 @@
 
     <footer>
       <p>
-        © {{year}} Design With
+        © {{year}} Designed With
         <a href="https://github.com/MsShiina-Mashiro" target="_blank">Love</a>.
       </p>
     </footer>
